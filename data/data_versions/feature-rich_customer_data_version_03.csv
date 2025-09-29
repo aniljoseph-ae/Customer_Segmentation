@@ -1,0 +1,201 @@
+,gender,age,annual_income,spending_score,age_group,income_level,spending_behavior,buying_power,credit_risk,opportunity,percentage_of_total_spending_score
+0,Male,19,15000,39,young_adult,low-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,0.3884462151394422
+1,Male,21,15000,81,young_adult,low-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,1.1952191235059761
+2,Female,20,16000,6,young_adult,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,1.254980079681275
+3,Female,23,16000,77,young_adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,2.0219123505976095
+4,Female,31,17000,40,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,2.4203187250996017
+5,Female,22,17000,76,young_adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,3.1772908366533863
+6,Female,35,18000,6,adult,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,3.237051792828685
+7,Female,23,18000,94,young_adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,4.173306772908367
+8,Male,64,19000,3,seniors,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,4.203187250996017
+9,Female,30,19000,72,adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,4.920318725099602
+10,Male,67,19000,14,seniors,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,5.059760956175299
+11,Female,35,19000,99,adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,6.0458167330677295
+12,Female,58,20000,15,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,6.195219123505976
+13,Female,24,20000,77,young_adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,6.962151394422311
+14,Male,37,20000,13,adult,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,7.091633466135458
+15,Male,22,20000,79,young_adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,7.878486055776893
+16,Female,35,21000,35,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,8.227091633466136
+17,Male,20,21000,66,young_adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,8.884462151394422
+18,Male,52,23000,29,middle_age,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,9.173306772908367
+19,Female,35,23000,98,adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,10.149402390438247
+20,Male,35,24000,35,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,10.49800796812749
+21,Male,25,24000,73,young_adult,middle-income,high-spender,Moderate Buying Power,Unknown,Unknown,11.225099601593627
+22,Female,46,25000,5,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,11.274900398406375
+23,Male,31,25000,73,adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,12.001992031872511
+24,Female,54,28000,14,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,12.141434262948207
+25,Male,29,28000,82,adult,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,12.958167330677291
+26,Female,45,28000,32,middle_age,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,13.276892430278883
+27,Male,35,28000,61,adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,13.884462151394422
+28,Female,40,29000,31,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,14.193227091633467
+29,Female,23,29000,87,young_adult,middle-income,premium-spender,Moderate Buying Power,Unknown,Unknown,15.0597609561753
+30,Male,60,30000,4,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,15.099601593625497
+31,Female,21,30000,73,young_adult,middle-income,high-spender,Moderate Buying Power,Unknown,Unknown,15.826693227091635
+32,Male,53,33000,4,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,15.866533864541832
+33,Male,18,33000,92,teen,middle-income,premium-spender,Low Buying Power,Very High Risk,Low Opportunity,16.782868525896415
+34,Female,49,33000,14,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,16.922310756972113
+35,Female,21,33000,81,young_adult,middle-income,premium-spender,Moderate Buying Power,Unknown,Unknown,17.729083665338646
+36,Female,42,34000,17,middle_age,middle-income,low-spender,Low Buying Power,High Risk,Low Opportunity,17.89840637450199
+37,Female,30,34000,73,adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,18.625498007968126
+38,Female,36,37000,26,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,18.88446215139442
+39,Female,20,37000,75,young_adult,middle-income,high-spender,Moderate Buying Power,Unknown,Unknown,19.63147410358566
+40,Female,65,38000,35,seniors,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,19.9800796812749
+41,Male,24,38000,92,young_adult,middle-income,premium-spender,Moderate Buying Power,Unknown,Unknown,20.896414342629484
+42,Male,48,39000,36,middle_age,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,21.254980079681275
+43,Female,31,39000,61,adult,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,21.862549800796813
+44,Female,49,39000,28,middle_age,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,22.141434262948206
+45,Female,24,39000,65,young_adult,middle-income,high-spender,Moderate Buying Power,Unknown,Unknown,22.78884462151394
+46,Female,50,40000,55,middle_age,middle-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,23.336653386454184
+47,Female,27,40000,47,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,23.804780876494025
+48,Female,29,40000,42,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,24.223107569721115
+49,Female,31,40000,42,adult,middle-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,24.641434262948206
+50,Female,49,42000,52,middle_age,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,25.159362549800797
+51,Male,33,42000,60,adult,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,25.756972111553782
+52,Female,31,43000,54,adult,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,26.294820717131472
+53,Male,59,43000,60,middle_age,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,26.89243027888446
+54,Female,50,43000,45,middle_age,high-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,27.3406374501992
+55,Male,47,43000,41,middle_age,high-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,27.749003984063748
+56,Female,51,44000,50,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,28.247011952191237
+57,Male,69,44000,46,seniors,high-income,moderate-spender,Low Buying Power,High Risk,Low Opportunity,28.705179282868524
+58,Female,27,46000,51,adult,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,29.213147410358566
+59,Male,53,46000,46,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,29.671314741035857
+60,Male,70,46000,56,seniors,high-income,high-spender,Low Buying Power,Very High Risk,Low Opportunity,30.229083665338646
+61,Male,19,46000,55,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,30.776892430278885
+62,Female,67,47000,52,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,31.294820717131472
+63,Female,54,47000,59,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,31.882470119521912
+64,Male,63,48000,51,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,32.39043824701196
+65,Male,18,48000,59,teen,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,32.97808764940239
+66,Female,43,48000,50,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,33.476095617529886
+67,Female,68,48000,48,seniors,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,33.95418326693227
+68,Male,19,48000,59,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,34.54183266932271
+69,Female,32,48000,47,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,35.00996015936255
+70,Male,70,49000,55,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,35.55776892430279
+71,Female,47,49000,42,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,35.97609561752988
+72,Female,60,50000,49,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,36.46414342629482
+73,Female,60,50000,56,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,37.02191235059761
+74,Male,59,54000,47,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,37.49003984063745
+75,Male,26,54000,54,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,38.027888446215144
+76,Female,45,54000,53,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,38.55577689243027
+77,Male,40,54000,48,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,39.03386454183267
+78,Female,23,54000,52,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,39.551792828685265
+79,Female,49,54000,42,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,39.97011952191235
+80,Male,57,54000,51,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,40.47808764940239
+81,Male,38,54000,55,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,41.025896414342625
+82,Male,67,54000,41,seniors,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,41.43426294820717
+83,Female,46,54000,44,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,41.87250996015936
+84,Female,21,54000,57,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,42.440239043824704
+85,Male,48,54000,46,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,42.89840637450199
+86,Female,55,57000,58,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,43.47609561752988
+87,Female,22,57000,55,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,44.02390438247012
+88,Female,34,58000,60,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,44.6215139442231
+89,Female,50,58000,46,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,45.079681274900395
+90,Female,68,59000,55,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,45.62749003984064
+91,Male,18,59000,41,teen,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,46.03585657370518
+92,Male,48,60000,49,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,46.52390438247012
+93,Female,40,60000,40,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,46.92231075697212
+94,Female,32,60000,42,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,47.3406374501992
+95,Male,24,60000,52,young_adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,47.8585657370518
+96,Female,47,60000,47,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,48.32669322709163
+97,Female,27,60000,50,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,48.82470119521912
+98,Male,48,61000,42,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,49.243027888446214
+99,Male,20,61000,49,young_adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,49.73107569721116
+100,Female,23,62000,41,young_adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,50.13944223107569
+101,Female,49,62000,48,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,50.61752988047809
+102,Male,67,62000,59,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,51.20517928286853
+103,Male,26,62000,55,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,51.75298804780877
+104,Male,49,62000,56,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,52.31075697211155
+105,Female,21,62000,42,young_adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,52.72908366533865
+106,Female,66,63000,50,seniors,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,53.22709163346614
+107,Male,54,63000,46,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,53.68525896414342
+108,Male,68,63000,43,seniors,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,54.113545816733065
+109,Male,66,63000,48,seniors,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,54.591633466135455
+110,Male,65,63000,52,seniors,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,55.10956175298804
+111,Female,19,63000,54,young_adult,high-income,high-spender,High Buying Power,Low Risk,Very High Opportunity,55.64741035856574
+112,Female,38,64000,42,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,56.06573705179283
+113,Male,19,64000,46,young_adult,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,56.52390438247012
+114,Female,18,65000,48,teen,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,57.001992031872504
+115,Female,19,65000,50,young_adult,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,57.49999999999999
+116,Female,63,65000,43,seniors,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,57.928286852589636
+117,Female,49,65000,59,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,58.51593625498008
+118,Female,51,67000,43,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,58.94422310756973
+119,Female,50,67000,57,middle_age,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,59.51195219123506
+120,Male,27,67000,56,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,60.069721115537845
+121,Female,38,67000,40,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,60.468127490039834
+122,Female,40,69000,58,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,61.045816733067724
+123,Male,39,69000,91,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,61.952191235059765
+124,Female,23,70000,29,young_adult,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,62.2410358565737
+125,Female,31,70000,77,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,63.007968127490045
+126,Male,43,71000,35,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,63.35657370517929
+127,Male,40,71000,95,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,64.30278884462152
+128,Male,59,71000,11,middle_age,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,64.41235059760956
+129,Male,38,71000,75,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,65.15936254980079
+130,Male,47,71000,9,middle_age,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,65.24900398406375
+131,Male,39,71000,75,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,65.99601593625498
+132,Female,25,72000,34,young_adult,high-income,moderate-spender,High Buying Power,Unknown,High Opportunity,66.33466135458167
+133,Female,31,72000,71,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,67.04183266932272
+134,Male,20,73000,5,young_adult,high-income,low-spender,High Buying Power,Unknown,High Opportunity,67.09163346613546
+135,Female,29,73000,88,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,67.96812749003985
+136,Female,44,73000,7,middle_age,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,68.0378486055777
+137,Male,32,73000,73,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,68.76494023904382
+138,Male,19,74000,10,young_adult,high-income,low-spender,High Buying Power,Unknown,High Opportunity,68.86454183266932
+139,Female,35,74000,72,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,69.58167330677291
+140,Female,57,75000,5,middle_age,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,69.63147410358566
+141,Male,32,75000,93,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,70.55776892430279
+142,Female,28,76000,40,adult,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,70.95617529880478
+143,Female,32,76000,87,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,71.82270916334662
+144,Male,25,77000,12,young_adult,high-income,low-spender,High Buying Power,Unknown,High Opportunity,71.94223107569722
+145,Male,28,77000,97,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,72.90836653386454
+146,Male,48,77000,36,middle_age,high-income,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,73.26693227091633
+147,Female,32,77000,74,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,74.00398406374502
+148,Female,34,78000,22,adult,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,74.22310756972111
+149,Male,34,78000,90,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,75.11952191235059
+150,Male,43,78000,17,middle_age,high-income,low-spender,High Buying Power,Unknown,High Opportunity,75.28884462151395
+151,Male,39,78000,88,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,76.16533864541833
+152,Female,44,78000,20,middle_age,high-income,low-spender,High Buying Power,Unknown,High Opportunity,76.36454183266932
+153,Female,38,78000,76,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,77.12151394422311
+154,Female,47,78000,16,middle_age,high-income,low-spender,High Buying Power,Unknown,High Opportunity,77.28087649402391
+155,Female,27,78000,89,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,78.16733067729083
+156,Male,37,78000,1,adult,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,78.17729083665338
+157,Female,30,78000,78,adult,high-income,premium-spender,Moderate Buying Power,Unknown,Unknown,78.95418326693228
+158,Male,34,78000,1,adult,high-income,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,78.96414342629483
+159,Female,30,78000,73,adult,high-income,high-spender,Moderate Buying Power,Unknown,Unknown,79.69123505976096
+160,Female,56,79000,35,middle_age,affluent,moderate-spender,High Buying Power,Unknown,High Opportunity,80.0398406374502
+161,Female,29,79000,83,adult,affluent,premium-spender,Moderate Buying Power,Unknown,Unknown,80.86653386454184
+162,Male,19,81000,5,young_adult,affluent,low-spender,High Buying Power,Unknown,High Opportunity,80.91633466135458
+163,Female,31,81000,93,adult,affluent,premium-spender,Moderate Buying Power,Unknown,Unknown,81.84262948207171
+164,Male,50,85000,26,middle_age,affluent,moderate-spender,High Buying Power,Unknown,High Opportunity,82.101593625498
+165,Female,36,85000,75,adult,affluent,high-spender,Moderate Buying Power,Unknown,Unknown,82.84860557768924
+166,Male,42,86000,20,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,83.04780876494023
+167,Female,33,86000,95,adult,affluent,premium-spender,Moderate Buying Power,Unknown,Unknown,83.99402390438247
+168,Female,36,87000,27,adult,affluent,moderate-spender,Moderate Buying Power,Moderate Risk,Unknown,84.26294820717132
+169,Male,32,87000,63,adult,affluent,high-spender,Moderate Buying Power,Unknown,Unknown,84.89043824701196
+170,Male,40,87000,13,adult,affluent,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,85.0199203187251
+171,Male,28,87000,75,adult,affluent,high-spender,Moderate Buying Power,Unknown,Unknown,85.76693227091633
+172,Male,36,87000,10,adult,affluent,low-spender,Moderate Buying Power,Unknown,Moderate Opportunity,85.86653386454182
+173,Male,36,87000,92,adult,affluent,premium-spender,Moderate Buying Power,Unknown,Unknown,86.78286852589642
+174,Female,52,88000,13,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,86.91235059760956
+175,Female,30,88000,86,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,87.76892430278885
+176,Male,58,88000,15,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,87.91832669322709
+177,Male,27,88000,69,adult,affluent,high-spender,High Buying Power,Low Risk,Very High Opportunity,88.60557768924303
+178,Male,59,93000,14,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,88.74501992031873
+179,Male,35,93000,90,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,89.64143426294821
+180,Female,37,97000,32,adult,affluent,moderate-spender,High Buying Power,Unknown,High Opportunity,89.9601593625498
+181,Female,32,97000,86,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,90.81673306772909
+182,Male,46,98000,15,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,90.96613545816733
+183,Female,29,98000,88,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,91.84262948207171
+184,Female,41,99000,39,middle_age,affluent,moderate-spender,High Buying Power,Unknown,High Opportunity,92.23107569721115
+185,Male,30,99000,97,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,93.19721115537848
+186,Female,54,101000,24,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,93.43625498007968
+187,Male,28,101000,68,adult,affluent,high-spender,High Buying Power,Low Risk,Very High Opportunity,94.11354581673307
+188,Female,41,103000,17,middle_age,affluent,low-spender,High Buying Power,Unknown,High Opportunity,94.28286852589642
+189,Female,36,103000,85,adult,affluent,premium-spender,High Buying Power,Low Risk,Very High Opportunity,95.12948207171314
+190,Female,34,103000,23,adult,affluent,low-spender,High Buying Power,Unknown,High Opportunity,95.35856573705179
+191,Female,32,103000,69,adult,affluent,high-spender,High Buying Power,Low Risk,Very High Opportunity,96.04581673306772
+192,Male,33,113000,8,adult,,low-spender,High Buying Power,Unknown,High Opportunity,96.12549800796812
+193,Female,38,113000,91,adult,,premium-spender,High Buying Power,Low Risk,Very High Opportunity,97.03187250996017
+194,Female,47,120000,16,middle_age,,low-spender,High Buying Power,Unknown,High Opportunity,97.19123505976096
+195,Female,35,120000,79,adult,,premium-spender,High Buying Power,Low Risk,Very High Opportunity,97.9780876494024
+196,Female,45,126000,28,middle_age,,moderate-spender,High Buying Power,Unknown,High Opportunity,98.2569721115538
+197,Male,32,126000,74,adult,,high-spender,High Buying Power,Low Risk,Very High Opportunity,98.99402390438247
+198,Male,32,137000,18,adult,,low-spender,High Buying Power,Unknown,High Opportunity,99.17330677290836
+199,Male,30,137000,83,adult,,premium-spender,High Buying Power,Low Risk,Very High Opportunity,100.0
