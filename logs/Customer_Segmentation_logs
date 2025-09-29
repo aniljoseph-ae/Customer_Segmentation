@@ -1,0 +1,12 @@
+2025-09-29 10:12:05,486 - Customer_Segmentation - INFO - numerical features of data: ['age', 'annual_income', 'spending_score']
+2025-09-29 10:12:05,490 - Customer_Segmentation - INFO - categorical features of data: ['gender']
+2025-09-29 10:12:16,608 - Customer_Segmentation - INFO - save preprocessed data: 'processed_customer_data_version_01.csv' to D:\CODE\MY_PROJECTS\00_MACHINE_TASKS\Customer_Segmenation_DataDivr\data\processed_data
+2025-09-29 10:12:16,707 - Customer_Segmentation - INFO - column names changed: {'Gender': 'gender', 'Age': 'age', 'Annual Income (k$)': 'annual_income', 'Spending Score (1-100)': 'spending_score'}
+2025-09-29 10:37:53,299 - Customer_Segmentation - INFO - Data has been imported from 'D:\CODE\MY_PROJECTS\00_MACHINE_TASKS\Customer_Segmenation_DataDivr\data' successfully
+2025-09-29 10:37:53,371 - Customer_Segmentation - INFO - column names changed: {'Gender': 'gender', 'Age': 'age', 'Annual Income (k$)': 'annual_income', 'Spending Score (1-100)': 'spending_score'}
+2025-09-29 10:37:53,401 - Customer_Segmentation - INFO - created data version: 'customer_data_version_01.csv' in D:\CODE\MY_PROJECTS\00_MACHINE_TASKS\Customer_Segmenation_DataDivr\data\data_versions
+2025-09-29 10:37:53,431 - Customer_Segmentation - INFO - numerical features of data: ['age', 'annual_income', 'spending_score']
+2025-09-29 10:37:53,432 - Customer_Segmentation - INFO - categorical features of data: ['gender']
+2025-09-29 10:38:05,273 - Customer_Segmentation - INFO - save preprocessed data: 'processed_customer_data_version_01.csv' to D:\CODE\MY_PROJECTS\00_MACHINE_TASKS\Customer_Segmenation_DataDivr\data\processed_data
+2025-09-29 10:38:05,351 - Customer_Segmentation - INFO - column names changed: {'Gender': 'gender', 'Age': 'age', 'Annual Income (k$)': 'annual_income', 'Spending Score (1-100)': 'spending_score'}
+2025-09-29 10:48:59,040 - Customer_Segmentation - INFO - numerical features of data: ['age', 'annual_income', 'spending_score']
