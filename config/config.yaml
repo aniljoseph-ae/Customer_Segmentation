@@ -1,0 +1,25 @@
+paths:
+  data_path:
+    raw_data: 'raw_data'
+    data_version: 'data_versions'
+    processed_data: 'processed_data'
+  notebook_path: 'notebooks'
+
+data:
+  category_features: ["age"]
+  numerical_feature: ['gender', 'annual_income', 'spending_score']
+
+feature_engineering:
+  imputation: 
+    numerical: 'SimpleImputer'
+    categorical: 'SimpleImputer'
+  outlier_handling:
+    
+  
+"""
+  numerical:
+    imputation: 'SimpleImputer'
+    outlier_handling: ''
+    transformation: 'log'
+  categorical:
+""""
